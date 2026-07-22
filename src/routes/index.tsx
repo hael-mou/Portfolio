@@ -1,7 +1,8 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 
-const profileColor = "/hero.jpeg";
+const profileColor = "/me3.jpeg";
+const profileColor2 = "/hero.jpeg";
 const profileBw = "/me.jpeg";
 const profileBWSmall = "/me2.jpeg";
 
@@ -794,7 +795,7 @@ function Hero() {
         >
             <div className="absolute inset-0 -z-10">
                 <img
-                    src={profileColor}
+                    src={profileColor2}
                     alt="Portrait de Hamza El Moudden"
                     className="h-full w-full object-cover object-[center_20%] opacity-70"
                     width={1200}
