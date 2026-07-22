@@ -66,3 +66,25 @@
   color: var(--color-accent);
   font-weight: 500;
 }
+
+
+/* Responsive font sizes */
+@media screen and (min-width: 2500px) {
+  body, html {
+    font-size: 1vw;
+  }
+}
+@media screen and (min-width: 1600px) {
+  body, html {
+    font-size: .91vw;
+  }
+}
+
+/* Disable image drag */
+img {
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-drag: none;
+}
