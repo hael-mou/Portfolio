@@ -3,6 +3,7 @@ import {
   Outlet,
   createRootRouteWithContext,
   useRouter,
+  useLocation,
   HeadContent,
   Scripts,
 } from "@tanstack/react-router";
@@ -139,11 +140,7 @@ function CoqueRacine({ children }: { children: ReactNode }) {
       </head>
 
       <body>
-        <LanguageProvider>
-          {children}
-          <Analytics />
-          <SpeedInsights />
-        </LanguageProvider>
+        <LanguageProvider>{children}</LanguageProvider>
         <Scripts />
       </body>
     </html>
@@ -152,10 +149,13 @@ function CoqueRacine({ children }: { children: ReactNode }) {
 
 function ComposantRacine() {
   const { queryClient } = Route.useRouteContext();
+  const location = useLocation();
 
   return (
     <QueryClientProvider client={queryClient}>
       <Outlet />
+      <Analytics route={location.pathname} path={location.pathname} />
+      <SpeedInsights route={location.pathname} />
     </QueryClientProvider>
   );
 }
