@@ -11,6 +11,7 @@ import { useEffect, type ReactNode } from "react";
 import appCss from "../styles.css?url";
 import { reportLovableError } from "../lib/lovable-error-reporting";
 import { LanguageProvider, useLanguage } from "../hooks/use-language";
+import { Analytics } from "@vercel/analytics/react";
 
 function ComposantPageIntrouvable() {
   const router = useRouter();
@@ -137,7 +138,10 @@ function CoqueRacine({ children }: { children: ReactNode }) {
       </head>
 
       <body>
-        <LanguageProvider>{children}</LanguageProvider>
+        <LanguageProvider>
+          {children}
+          <Analytics />
+        </LanguageProvider>
         <Scripts />
       </body>
     </html>
