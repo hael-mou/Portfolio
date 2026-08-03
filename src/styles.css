@@ -67,16 +67,17 @@
   font-weight: 500;
 }
 
-
 /* Responsive font sizes */
 @media screen and (min-width: 2500px) {
-  body, html {
+  body,
+  html {
     font-size: 1vw;
   }
 }
 @media screen and (min-width: 1600px) {
-  body, html {
-    font-size: .91vw;
+  body,
+  html {
+    font-size: 0.91vw;
   }
 }
 

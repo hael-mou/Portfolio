@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "Hamza El Moudden — Full Stack Developer & Software Architect",
+    "description": "Hamza El Moudden is a full stack developer and software architect specializing in Django, React, Next.js, TypeScript, Docker, and PostgreSQL. Discover his portfolio, experience, and selected projects.",
+    "keywords": "Hamza El Moudden, full stack developer, software architect, Django developer, React developer, Next.js, TypeScript, PostgreSQL, Docker, portfolio, freelance developer",
+    "ogTitle": "Hamza El Moudden — Full Stack Developer & Software Architect",
+    "ogDescription": "Portfolio, experience, and selected projects of Hamza El Moudden — designing robust and scalable web systems from end to end.",
+    "twitterTitle": "Hamza El Moudden — Full Stack Developer",
+    "twitterDescription": "Full stack developer and software architect. Discover his portfolio and selected projects."
+  },
+  "nav": {
+    "logo": "HEM",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact",
+    "contactButton": "Contact me"
+  },
+  "hero": {
+    "eyebrow": "Full Stack Developer · Software Architect",
+    "firstName": "HAMZA",
+    "lastName": "MOUDDEN",
+    "description": "I design and develop robust systems, from database modeling and APIs to the modern user interfaces that users trust. Rigorous, pragmatic, and passionate about software engineering.",
+    "downloadCv": "Download CV",
+    "downloadCvLink": "/hamzaElmoudden_4_2026.pdf",
+    "viewProjects": "Discover my projects",
+    "scroll": "-- Scroll --"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Designing software with vision — from the first line of code to production deployment.",
+    "paragraphs": [
+      "I am a Full Stack Developer and software architect passionate about designing modern, high-performance, and scalable systems. I enjoy the entire technical chain: database modeling, API design, software architecture, deployment, and user experience.",
+      "My philosophy is simple: prioritize stable technologies, write clear and maintainable code, automate repetitive tasks, and make decisions based on data rather than assumptions. Every architectural choice represents a trade-off that must be understood and embraced.",
+      "I place high importance on simplicity, code quality, personal responsibility, and delivering concrete solutions that bring real value to users and businesses."
+    ]
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "My technical expertise",
+    "groups": [
+      {
+        "title": "Frontend Development",
+        "items": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Next.js",
+          "Tailwind CSS",
+          "Responsive Design",
+          "Progressive Web Apps"
+        ]
+      },
+      {
+        "title": "Backend Development",
+        "items": [
+          "Python",
+          "Django",
+          "Express.js",
+          "REST APIs",
+          "API Integration",
+          "Authentication",
+          "Authorization"
+        ]
+      },
+      {
+        "title": "Languages",
+        "items": ["C", "C++", "Object-Oriented Programming", "Algorithms", "Data Structures"]
+      },
+      {
+        "title": "Database & Messaging",
+        "items": [
+          "PostgreSQL",
+          "Database Design",
+          "SQL Optimization",
+          "RabbitMQ",
+          "Asynchronous Processing"
+        ]
+      },
+      {
+        "title": "DevOps",
+        "items": ["Docker", "Virtualization", "Linux", "Nginx", "CI/CD Pipelines", "GitHub Actions"]
+      },
+      {
+        "title": "Software Architecture",
+        "items": [
+          "System Design",
+          "Software Architecture",
+          "Design Patterns",
+          "Microservices",
+          "Distributed Systems",
+          "Performance Optimization"
+        ]
+      },
+      {
+        "title": "Tools & Collaboration",
+        "items": [
+          "Git",
+          "GitHub",
+          "Agile Methodologies",
+          "Technical Documentation",
+          "Code Review",
+          "Team Collaboration"
+        ]
+      },
+      {
+        "title": "Professional Skills",
+        "items": [
+          "Creative Problem Solving",
+          "Research Skills",
+          "Self-Learning",
+          "Adaptability",
+          "Creativity",
+          "Leadership",
+          "Communication",
+          "Critical Thinking",
+          "Time Management"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "title": "My professional path",
+    "present": "Present",
+    "items": [
+      {
+        "role": "Freelance Full Stack Developer",
+        "company": "Revo Advertising",
+        "period": "Jul. 2025 — Present",
+        "location": "Casablanca, Morocco",
+        "points": [
+          "Development and maintenance of high-value business web platforms.",
+          "Design of robust and scalable software architectures.",
+          "Implementation of CI/CD pipelines, Docker deployment, and performance optimization.",
+          "Direct collaboration with business teams to translate functional requirements into concrete software solutions.",
+          "Participation in technical decisions and the evolution of project infrastructure."
+        ]
+      },
+      {
+        "role": "Full Stack Developer (Internship)",
+        "company": "Revo Advertising",
+        "period": "Feb. 2025 — Jul. 2025",
+        "location": "Casablanca, Morocco",
+        "points": [
+          "Design and development of modern web applications for internal needs and company clients.",
+          "Development of high-performance user interfaces with React, Next.js, and TypeScript.",
+          "API design, database modeling, and application performance optimization.",
+          "Participation in deployment, maintenance, and continuous improvement of production solutions."
+        ]
+      },
+      {
+        "role": "Freelance Full Stack Developer",
+        "company": "Freelance",
+        "period": "Feb. 2022 — 2024",
+        "location": "Morocco",
+        "points": [
+          "Custom design and development of websites and digital tools for various businesses.",
+          "Development of modern blogs with React and Next.js.",
+          "Creation of electronic signature management systems and automatic signature image generation.",
+          "Development of business applications, REST APIs, and admin interfaces.",
+          "Full project ownership: requirements analysis, architecture, development, deployment, and maintenance."
+        ]
+      },
+      {
+        "role": "Mobile & Embedded Systems Developer (Internship)",
+        "company": "DropLeet",
+        "period": "May 2021 — Jul. 2021",
+        "location": "Khouribga, Morocco",
+        "points": [
+          "Development of an intelligent restaurant management system integrating a mobile app and embedded services.",
+          "Design of reservation, waitlist management, and kitchen order tracking features.",
+          "Integration of serving robots to improve client experience and operational efficiency.",
+          "Participation in designing communication between mobile apps, backend services, and connected equipment."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "eyebrow": "Education",
+    "title": "Academic background",
+    "present": "Present",
+    "items": [
+      {
+        "degree": "RNCP Level 7 - Systems Administrator, Cybersecurity",
+        "school": "1337",
+        "period": "Oct. 2025 — Present",
+        "location": "Tetouan, Morocco",
+        "description": "Advanced training focused on infrastructure administration, IT security, cloud computing, automation, and secure distributed system design.",
+        "skills": [
+          "Linux Administration",
+          "Cybersecurity",
+          "Network Security",
+          "Docker & Kubernetes",
+          "Cloud Computing",
+          "CI/CD",
+          "Monitoring & Observability",
+          "Infrastructure as Code",
+          "Distributed Systems Architecture",
+          "System Hardening",
+          "DevSecOps"
+        ]
+      },
+      {
+        "degree": "Architect in Digital Technologies",
+        "school": "1337",
+        "period": "Oct. 2022 — Dec. 2024",
+        "location": "Tetouan, Morocco",
+        "description": "Intensive project-based peer-learning program focused on software engineering, advanced algorithms, Full Stack development, and complex systems design.",
+        "skills": [
+          "Advanced Algorithms",
+          "Data Structures",
+          "System Programming (C/C++)",
+          "Full Stack Development",
+          "Software Architecture",
+          "System Design",
+          "Docker & Virtualization",
+          "Linux",
+          "Networking",
+          "Collaborative Work",
+          "Technical Project Management"
+        ]
+      },
+      {
+        "degree": "Professional Bachelor's Degree in Embedded Computer Systems",
+        "school": "Ibn Zohr University",
+        "period": "Jan. 2019 — Dec. 2021",
+        "location": "Agadir, Morocco",
+        "description": "Specialized program in embedded systems, low-level programming, and hardware-software integration.",
+        "skills": [
+          "C/C++ Programming",
+          "Embedded Systems",
+          "Microcontrollers",
+          "Object-Oriented Programming",
+          "Mobile Development",
+          "Computer Networks",
+          "Databases",
+          "Real-Time Systems",
+          "UML Design"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Selected works and projects.",
+    "viewSite": "View site",
+    "sourceCode": "Source code",
+    "viewMore": "View more projects",
+    "backToTop": "Back to top",
+    "video": "Video",
+    "article": "Article",
+    "items": {
+      "SKATYS": {
+        "category": "Corporate Website",
+        "blurb": "Multilingual corporate website dedicated to SAP solutions and digital transformation.",
+        "description": "Development of a modern site with Next.js and static rendering (SSG) to improve performance and SEO. Implementation of i18n, advanced metadata management, SEO optimization, and automated deployment with GitHub Actions. VPS administration with Docker, Nginx, firewall, and configuration of a secure production environment."
+      },
+      "CFMDV": {
+        "category": "Institutional Website",
+        "blurb": "Modern institutional website for the Digital Careers and Valorization Training Center (UM6P).",
+        "description": "Creation of an institutional platform with Next.js optimized for performance, accessibility, and SEO. Development of a modern architecture with multilingual management, SEO metadata, responsive design, and user experience optimization to present the center's courses and services."
+      },
+      "ENI Signature Generator": {
+        "category": "Internal Tool",
+        "blurb": "Automated professional email signature generator tool for the ENI group.",
+        "description": "Development of a Python application to automatically generate email signatures complying with the corporate brand identity. Creation of a simple interface with Streamlit to modify user information and dynamic image generation using Pillow image processing."
+      },
+      "Inception of Things": {
+        "category": "DevOps & Kubernetes",
+        "blurb": "Cloud-native infrastructure based on Kubernetes and GitOps.",
+        "description": "Kubernetes infrastructure deployment with K3s and application automation using GitOps. Setting up multiple environments, managing deployments with ArgoCD, configuring services, and orchestrating Docker containers to build a robust cloud-native architecture."
+      },
+      "ArgoCheck": {
+        "category": "Web Application",
+        "blurb": "Full Stack platform for customer review collection and management.",
+        "description": "Development of a Full Stack application with Next.js and Django allowing customers to share product reviews. Implementation of a secure system with IP rate limiting, anti-spam protection, and comment storage in PostgreSQL."
+      },
+      "CBT Dashboard": {
+        "category": "Business Dashboard",
+        "blurb": "Analytical dashboard for tracking economic and marketing data.",
+        "description": "Creation of a modern dashboard for visualizing business data from external APIs. Development of a dynamic interface with React and Vite, integration of Supabase for data management, and optimization of the user experience for analyzing and modifying information."
+      },
+      "Revo Advertising": {
+        "category": "Corporate Website",
+        "blurb": "Modern showcase site for a communication and advertising agency.",
+        "description": "Development of a corporate website with Next.js to present the services, achievements, and projects of an advertising agency. Creation of a modern, responsive, and optimized interface to offer better digital visibility for future clients."
+      },
+      "WNT Hiring Challenge": {
+        "category": "Backend Engineering",
+        "blurb": "Optimization and enhancement of a Django event ticketing API.",
+        "description": "Redesign of a Django backend API to improve code quality, maintainability, and performance. Project restructuring with feature-based architecture, SQL query optimization to eliminate N+1 issues, dynamic cache integration, purchase securing with transaction management, and concurrency issue prevention."
+      },
+      "Global Health Care": {
+        "category": "Healthcare Website",
+        "blurb": "Modern showcase site for a medical center presenting its services.",
+        "description": "Development of a web platform designed to improve the digital presence of a healthcare center. Creation of a modern and responsive interface with React and Vite to present medical services, center information, and offer a clear user experience to visitors."
+      },
+      "ft_transcendence": {
+        "category": "Real-Time Application",
+        "blurb": "Pong multiplayer platform with chat and tournament systems.",
+        "description": "Development of a real-time gaming platform as part of the 42 curriculum. Design of a microservices-based architecture with synchronous and asynchronous communication. Integration of WebSockets for games and chat, RabbitMQ for inter-service communication, JWT for authentication, and full management of users, matches, and tournaments."
+      },
+      "Inception": {
+        "category": "DevOps",
+        "blurb": "Complete Docker infrastructure to deploy a secure WordPress environment.",
+        "description": "Setup of a complete containerized architecture with Docker Compose. Configuration of multiple services including Nginx, WordPress, and MariaDB with persistent volume management, Docker networks, SSL certificates, and Linux environment hardening."
+      },
+      "Webserv": {
+        "category": "System & Network",
+        "blurb": "HTTP server developed in C++ using an event-driven architecture.",
+        "description": "Development of an HTTP web server in C++ inspired by Nginx as part of the 42 curriculum. Implementation of network connection handling, HTTP requests, static files, CGI, and server configuration. Use of the Reactor pattern with an event-driven approach to handle communications efficiently."
+      },
+      "Cub3D": {
+        "category": "Video Game",
+        "blurb": "3D graphics engine based on raycasting inspired by Wolfenstein 3D.",
+        "description": "Creation of a first-person shooter in C using raycasting. Development of a real-time graphics engine with texture mapping, movements, collisions, keyboard events, and 3D rendering using the MiniLibX library."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "titleText": "Let's build something ",
+    "titleAccent": "remarkable",
+    "description": "I am open to collaborations, freelance missions, and challenging professional opportunities.",
+    "thanks": "Thanks for visiting and see you soon"
+  },
+  "footer": {
+    "copyright": "© {year} Hamza El Moudden. All rights reserved.",
+    "designed": "Designed with passion."
+  },
+  "languageModal": {
+    "welcome": "Welcome",
+    "description": "Please select your preferred language to continue.",
+    "english": "English",
+    "french": "Français",
+    "englishSub": "English version",
+    "frenchSub": "Version française",
+    "confirm": "Confirm"
+  },
+  "errors": {
+    "pageNotFound": "This page could not be loaded",
+    "defaultError": "An error occurred on our side.",
+    "retry": "Retry",
+    "backToHome": "Back to home"
+  }
+}
